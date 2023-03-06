@@ -1,0 +1,22 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "Back.js",
+  "scripts": {
+    "start": "nodemon Back.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gugo7777/Back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gugo7777/Back/issues"
+  },
+  "homepage": "https://github.com/Gugo7777/Back#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

@@ -20,7 +20,8 @@ const name1 = "Jon Snow";
 const sayHi = (para) => {
     console.log(`Hello ${para}`);
 }
-
+console.log('name');
+console.log('dfghjk');
 module.exports = {
     name1: name1,
     sayHi: sayHi,
