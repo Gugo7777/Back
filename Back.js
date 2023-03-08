@@ -8,7 +8,7 @@
 // global.date = x
 // console.log(global);
 
-// console.log(__dirname, '---this is a dirname');
+// console.log(__dirname, '---this is a dirname');5
 
 // console.log(__filename, '---this is a filename');
 
